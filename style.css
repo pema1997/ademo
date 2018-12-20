@@ -20,8 +20,7 @@ body{background-color: white;
     background-size: 1500px;
 }
 
-h{
-    font-size: 80px;
+h { font-size: 80px;
     color: black;
     font-family:serif;
     font-weight:inherit;
